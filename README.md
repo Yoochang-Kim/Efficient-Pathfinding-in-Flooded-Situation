@@ -6,6 +6,7 @@ The C program simulates a pathfinding robot in a flood scenario. It uses Dijkstr
 ## Features
 - Simulates a city map with impassable buildings and walls, and navigable water and roads.
 - Uses two pathfinding algorithms, each producing different results and efficiencies.
+- The robot can move up, down, left, or right, but not diagonally.
 - Configurable map dimensions (recommended to keep under 20x20).
 
 ## Pathfinding Results
