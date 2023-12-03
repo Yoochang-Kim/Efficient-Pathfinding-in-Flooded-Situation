@@ -21,11 +21,22 @@ The following images show the pseudocode for the algorithms used:
 ## Pathfinding Results
 Here are the results from both pathfinding algorithms on a sample city map:
 
-### Original City Map
-<img src="https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/original%20city%20map.png" width="250" alt="Original City Map">
-
-### Dijkstra's Algorithm Result
-<img src="https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/Dijkstra%20result.png" width="250" alt="Dijkstra Result">
-
-### A* Algorithm Result
-<img src="https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/a%20star%20result.png" width="250" alt="A* Result">
+## Map Visualizations
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/original%20city%20map.png" width="250" alt="Original City Map"><br>
+        <b>Original City Map</b>
+      </td>
+      <td align="center">
+        <img src="https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/Dijkstra%20result.png" width="250" alt="Dijkstra Result"><br>
+        <b>Dijkstra's Algorithm Result</b>
+      </td>
+      <td align="center">
+        <img src="https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/a%20star%20result.png" width="250" alt="A* Result"><br>
+        <b>A* Algorithm Result</b>
+      </td>
+    </tr>
+  </table>
+</div>
