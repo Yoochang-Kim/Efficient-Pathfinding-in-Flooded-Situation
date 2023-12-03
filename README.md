@@ -12,11 +12,20 @@ The C program simulates a pathfinding robot in a flood scenario. It uses Dijkstr
 ## Pseudocode
 The following images show the pseudocode for the algorithms used:
 
-### A* Pseudocode
-<img src="https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/astar_pseudocode.png" width="450" alt="A* Pseudocode">
-
-### Dijkstra's Pseudocode
-<img src="https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/dijkstra_pseudocode.png" width="450" alt="Dijkstra Pseudocode">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/astar_pseudocode.png" width="380" alt="A* Pseudocode"><br>
+        <b>A* Pseudocode</b>
+      </td>
+      <td align="center">
+        <img src="https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/dijkstra_pseudocode.png" width="380" alt="Dijkstra Pseudocode"><br>
+        <b>Dijkstra's Pseudocode</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Pathfinding Results
 Here are the results from both pathfinding algorithms on a sample city map:
