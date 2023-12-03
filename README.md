@@ -20,7 +20,7 @@ The following images show the pseudocode for the algorithms used:
         <b>A* Pseudocode</b>
       </td>
       <td align="center">
-        <img src="https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/dijkstra_pseudocode.png" width="380" alt="Dijkstra Pseudocode"><br>
+        <img src="https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/dijkstra_pseudocode.png" width="480" alt="Dijkstra Pseudocode"><br>
         <b>Dijkstra's Pseudocode</b>
       </td>
     </tr>
