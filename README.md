@@ -1,7 +1,7 @@
 # FloodPathfinder
 
 ## Introduction
-The C program simulates a pathfinding robot in a flood scenario. It uses Dijkstra and A* algorithms to find the shortest path to reach destination.
+The C program simulates a pathfinding robot in a flood scenario. It uses Dijkstra and A* algorithms to find the shortest path to reach the destination.
 
 ## Features
 - Simulates a city map with impassable buildings and walls, and navigable water and roads.
@@ -13,22 +13,19 @@ The C program simulates a pathfinding robot in a flood scenario. It uses Dijkstr
 The following images show the pseudocode for the algorithms used:
 
 ### A* Pseudocode
-![A* Pseudocode](https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/astar_pseudocode.png)
+<img src="https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/astar_pseudocode.png" width="250" alt="A* Pseudocode">
 
 ### Dijkstra's Pseudocode
-![Dijkstra Pseudocode](https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/dijkstra_pseudocode.png)
+<img src="https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/dijkstra_pseudocode.png" width="250" alt="Dijkstra Pseudocode">
 
 ## Pathfinding Results
 Here are the results from both pathfinding algorithms on a sample city map:
 
-## Original City Map
-![Original City Map](https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/original%20city%20map.png)
+### Original City Map
+<img src="https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/original%20city%20map.png" width="250" alt="Original City Map">
 
 ### Dijkstra's Algorithm Result
-![Dijkstra Result](https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/Dijkstra%20result.png)
+<img src="https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/Dijkstra%20result.png" width="250" alt="Dijkstra Result">
 
 ### A* Algorithm Result
-![A* Result](https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/a%20star%20result.png)
-
-
-
+<img src="https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/a%20star%20result.png" width="250" alt="A* Result">
