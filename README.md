@@ -21,7 +21,6 @@ The following images show the pseudocode for the algorithms used:
 ## Pathfinding Results
 Here are the results from both pathfinding algorithms on a sample city map:
 
-## Map Visualizations
 <div align="center">
   <table>
     <tr>
