@@ -9,6 +9,15 @@ The C program simulates a pathfinding robot in a flood scenario. It uses Dijkstr
 - The robot can move up, down, left, or right, but not diagonally.
 - Configurable map dimensions (recommended to keep under 20x20).
 
+## Pseudocode
+The following images show the pseudocode for the algorithms used:
+
+### A* Pseudocode
+![A* Pseudocode](https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/astar_pseudocode.png)
+
+### Dijkstra's Pseudocode
+![Dijkstra Pseudocode](https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/dijkstra_pseudocode.png)
+
 ## Pathfinding Results
 Here are the results from both pathfinding algorithms on a sample city map:
 
@@ -20,15 +29,6 @@ Here are the results from both pathfinding algorithms on a sample city map:
 
 ### A* Algorithm Result
 ![A* Result](https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/a%20star%20result.png)
-
-## Algorithms and Pseudocode
-The following images show the pseudocode for the algorithms used:
-
-### A* Pseudocode
-![A* Pseudocode](https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/astar_pseudocode.png)
-
-### Dijkstra's Pseudocode
-![Dijkstra Pseudocode](https://github.com/Yoochang-Kim/FloodPathfinder/blob/main/srcs/img/dijkstra_pseudocode.png)
 
 
 
